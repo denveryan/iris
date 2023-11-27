@@ -23,19 +23,19 @@ require (
 	github.com/json-iterator/go v1.1.12
 	github.com/kataras/blocks v0.0.8
 	github.com/kataras/golog v0.1.11
-	github.com/kataras/jwt v0.1.10
+	github.com/kataras/jwt v0.1.11
 	github.com/kataras/neffos v0.0.22
 	github.com/kataras/pio v0.0.13
 	github.com/kataras/sitemap v0.0.6
 	github.com/kataras/tunnel v0.0.4
-	github.com/klauspost/compress v1.17.2
+	github.com/klauspost/compress v1.17.3
 	github.com/mailgun/raymond/v2 v2.0.48
 	github.com/mailru/easyjson v0.7.7
 	github.com/microcosm-cc/bluemonday v1.0.26
 	github.com/redis/go-redis/v9 v9.3.0
 	github.com/schollz/closestmatch v2.1.0+incompatible
 	github.com/shirou/gopsutil/v3 v3.23.10
-	github.com/tdewolff/minify/v2 v2.20.6
+	github.com/tdewolff/minify/v2 v2.20.7
 	github.com/vmihailenco/msgpack/v5 v5.4.1
 	github.com/yosssi/ace v0.0.5
 	go.etcd.io/bbolt v1.3.8
@@ -95,7 +95,7 @@ require (
 	github.com/shoenig/go-m1cpu v0.1.6 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/stretchr/testify v1.8.4 // indirect
-	github.com/tdewolff/parse/v2 v2.7.4 // indirect
+	github.com/tdewolff/parse/v2 v2.7.5 // indirect
 	github.com/tklauser/go-sysconf v0.3.12 // indirect
 	github.com/tklauser/numcpus v0.6.1 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
